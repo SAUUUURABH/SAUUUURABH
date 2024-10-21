@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning REACTJS AND GOLANG 
 - 💞️ I’m looking to collaborate on  Any interesting projects that challenge my skills and allow for learning and growth!
 - 📫 How to reach me saurabhpant1310@gmail.com
-- 
--⚡ Fun fact: I love exploring new technologies—my latest obsession is using AI to generate art!
+- ⚡ Fun fact: I love exploring new technologies—my latest obsession is using AI to generate art!
 
 <!---
 SAUUUURABH/SAUUUURABH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
